@@ -5,7 +5,7 @@
 1. primitives에 new.json을 삽입
 2. tokens에 new-tokens.json을 삽입
 
-### 이 후 Local Styles에 타이포그래피 및 이펙트 등 적용 시
+##### 이 후 Local Styles에 타이포그래피 및 이펙트 등 적용 시
 
 1. 위 최초 적용시 했던 내용 중 2번 tokens에서 삽입 기준을 Local Styles에
    - Typograhpy
